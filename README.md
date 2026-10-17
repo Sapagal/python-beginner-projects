@@ -1,16 +1,23 @@
-
 # Python Beginner Projects
 
-Hi! I am learning Python programming.
+Hi! I'm Satya, a B.Sc. Computer Science student learning Python.
 
-## Project: Hello Python
+## About This Repository
+This repository contains my Python practice programs and beginner projects.
 
-This program:
-- Takes the user's name as input.
-- Prints a greeting message.
+## Projects
+- Hello Python: A simple greeting program.
 
-## Language
+## Skills I'm Learning
+- Python basics
+- Conditional statements
+- Functions
+- Problem solving
+- GitHub basics
+
+## Tools
 - Python
+- Pydroid 3
+- GitHub
 
-## Author
-- Satya
+I'm continuously learning and adding new projects.
